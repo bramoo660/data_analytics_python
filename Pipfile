@@ -9,6 +9,8 @@ jupyter = "*"
 notebook = "*"
 pandas = "*"
 openpyxl = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
