@@ -11,6 +11,7 @@ pandas = "*"
 openpyxl = "*"
 matplotlib = "*"
 seaborn = "*"
+scipy = "*"
 
 [dev-packages]
 
